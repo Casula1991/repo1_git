@@ -11,21 +11,11 @@ def divisao(a,b):
 	return a/b
 
 
+######################
+
+def calculadora(a,b, func):
+	x = func(a,b)
+	return x
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+print(calculadora(10,5, func = soma))
