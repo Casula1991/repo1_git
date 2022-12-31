@@ -23,3 +23,10 @@ print(calculadora(10,5, func = soma))
 print(calculadora(10,5, func = subtracao))
 print(calculadora(10,5, func = produto))
 print(calculadora(10,5, func = divisao))
+
+#########################################
+
+class Calc():
+	def __init__(self):
+		pass
+	#to be defined
