@@ -7,8 +7,8 @@ def subtracao(a,b):
 def produto(a,b):
 	return a*b
 
-
-
+def divisao(a,b):
+	return a/b
 
 
 
